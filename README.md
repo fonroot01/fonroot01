@@ -1,6 +1,6 @@
-## 🌐 Mi página personal
+## 🌐 Web personal
 
-📍 Puedes ver más sobre mí en: [alfonsom.vercel.app](https://alfonsom.vercel.app/)
+📍 Visitala en: [alfonsom.vercel.app](https://alfonsom.vercel.app/)
 
 <h1 align="center">¡Hola mundo! Soy Alfonso Mosquera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -77,8 +77,8 @@
 
 ---
 
-## 🐍 Snake: Contribuciones en acción
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fonroot01/fonroot01/output/github-contribution-grid-snake.svg" alt="snake gif" />
+## 🐍 La serpiente que se come mis contribuiones...
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
