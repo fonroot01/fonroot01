@@ -4,10 +4,10 @@
 [alfonsom.vercel.app](https://alfonsom.vercel.app)  
 [alfonsosupport.vercel.app](https://alfonsosupport.vercel.app)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a5443c68-1cf9-4330-a860-6bb2ce649cc9" alt="fondo_sobremi" width="300" style="border-radius: 10px;" />
-</p>
 <h1 align="center">¡Hola mundo! Soy Alfonso Mosquera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a5443c68-1cf9-4330-a860-6bb2ce649cc9" alt="fondo_sobremi" width="250" style="border-radius: 10px;" />
+</p>
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com/demo/">
