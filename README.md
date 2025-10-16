@@ -1,89 +1,112 @@
-## 🌐 Portafolio y Servicios
+# PORTFOLIO
 
-📍 Visítalos en:  
-[alfonsom.vercel.app](https://alfonsom.vercel.app)  
-[alfonsosupport.vercel.app](https://alfonsosupport.vercel.app)
+<div align="center">
 
-<h1 align="center">¡Hola mundo! Soy Alfonso Mosquera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a5443c68-1cf9-4330-a860-6bb2ce649cc9" alt="fondo_sobremi" width="250" style="border-radius: 10px;" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-alfonsomosquera.vercel.app-25C8A7?style=for-the-badge&logo=vercel)](https://alfonsomosquera.vercel.app)
 
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=25C8A7&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas+%F0%9F%92%BB;Apasionado+por+la+Ciberseguridad+%F0%9F%94%92;Fan+de+resolver+l%C3%ADos+tecnol%C3%B3gicos+%F0%9F%A4%AB;Amante+de+Linux+y+el+c%C3%B3digo+limpio+%F0%9F%90%8D;Siempre+aprendiendo+algo+nuevo+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=fonroot01&label=Profile%20views&color=0e75b6&style=flat" alt="fonroot01" /> 
-</p>
-
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Sobre mí
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"> </picture>
-
-- 🎓 Ingeniero de Sistemas con experiencia en soporte TI, administración de sistemas y ciberseguridad.
-- 🐧 Me encanta trabajar con Linux, virtualización y redes.
-- 🐍 Automatizo tareas y resuelvo problemas usando Python.
-- 💾 Manejo tecnologías como Git, SQL Server, Bash, Active Directory, y más.
-- 🔐 La ciberseguridad me atrapó… y no pienso escapar.
-- 🚀 Actualmente en búsqueda de nuevas oportunidades profesionales.
-- 📫 Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/alfonso-%C3%A1ngel-mosquera-a-4a919b341/) o ver más en mi [GitHub](https://github.com/fonroot01).
+</div>
 
 ---
 
-## 🔧 Tecnologías & Herramientas
+## ✨ Welcome
 
-### 🧠 Lenguajes de Programación
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25.svg?style=flat&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=sqlite&logoColor=white"/>
-</p>
+👋🏾 Hey there! I'm **Alfonso Mosquera**, but feel free to call me **Fonsi**!
 
-### 🛠️ Herramientas y Plataformas
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-%23007ACC.svg?style=flat&logo=virtualbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6.svg?style=flat&logo=windows&logoColor=white"/>
-</p>
+🔗 Connect with me:
 
-### 🧑‍💻 IDEs y Terminales
-<p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git_Bash-%23181717.svg?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terminal-%23000000.svg?style=flat&logo=gnome-terminal&logoColor=white"/>
-</p>
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-%C3%A1ngel-mosquera-a-4a919b341/)
+[![GMAIL](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfomsoque22@gmail.com)
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fonroot01)
 
 ---
 
-## 🤝 Conecta conmigo
-<p align="center">
-  <a href="mailto:alfomsoque22@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/alfonso-%C3%A1ngel-mosquera-a-4a919b341/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/fonroot01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-</p>
+---
+
+## 🌱 Contributions
+
+### IP Management System
+
+**📦 fonroot01/GestorIP**
+
+IP address management and network administration tool
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+[![GitHub stars](https://img.shields.io/github/stars/fonroot01/GestorIP?style=flat&color=yellow)](https://github.com/fonroot01/GestorIP)
+[![GitHub forks](https://img.shields.io/github/forks/fonroot01/GestorIP?style=flat&color=blue)](https://github.com/fonroot01/GestorIP)
 
 ---
 
-## 📊 GitHub Stats
+### Android Security Framework
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fonroot01&show_icons=true&theme=tokyonight&hide_title=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fonroot01&theme=tokyonight"/>
-</p>
+**📦 fonroot01/Droid-Specter**
 
----
+Advanced Android security analysis and monitoring framework
 
-> _"La curiosidad me trajo hasta aquí. La tecnología me retó. Y la ciberseguridad… me enamoró."_ 🧠🔐✨  
-> — Alfonso Angel Mosquera
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+[![GitHub stars](https://img.shields.io/github/stars/fonroot01/Droid-Specter?style=flat&color=yellow)](https://github.com/fonroot01/Droid-Specter)
+[![GitHub forks](https://img.shields.io/github/forks/fonroot01/Droid-Specter?style=flat&color=blue)](https://github.com/fonroot01/Droid-Specter)
 
 ---
 
-## 🐍 La serpiente que se come mis contribuciones...
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+### IT Equipment Inventory System
+
+**📦 fonroot01/Inventario-de-equipos-TI**
+
+Comprehensive IT equipment inventory management system
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+[![GitHub stars](https://img.shields.io/github/stars/fonroot01/Inventario-de-equipos-TI?style=flat&color=yellow)](https://github.com/fonroot01/Inventario-de-equipos-TI)
+[![GitHub forks](https://img.shields.io/github/forks/fonroot01/Inventario-de-equipos-TI?style=flat&color=blue)](https://github.com/fonroot01/Inventario-de-equipos-TI)
+
+---
+
+## 🔧 Skills
+
+### **Languages:**
+
+![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BASH](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Frontend:**
+
+![NEXT.JS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### **Backend:**
+
+![NODE.JS](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Tools & Platforms:**
+
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VIRTUALBOX](https://img.shields.io/badge/VIRTUALBOX-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![WINDOWS_SERVER](https://img.shields.io/badge/WINDOWS_SERVER-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VS_CODE](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![ACTIVE_DIRECTORY](https://img.shields.io/badge/ACTIVE_DIRECTORY-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![GIT_BASH](https://img.shields.io/badge/GIT_BASH-181717?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+### fonroot01 (Alfonso Mosquera)
+
+![GitHub Contributions](https://img.shields.io/badge/📊_Contributions-2025-25C8A7?style=flat)
+![Public Repos](https://img.shields.io/badge/📁_Public_Repos-Check_Profile-343b41?style=flat)
+![GitHub Member](https://img.shields.io/badge/📅_GitHub_Member-Active-343b41?style=flat)
+
+**Systems Engineer** | IT Support | Cybersecurity
+
+![Profile Views](https://komarev.com/ghpvc/?username=fonroot01&label=Profile%20views&color=25C8A7&style=flat)
+
+<img src="https://github-readme-stats.vercel.app/api?username=fonroot01&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fonroot01&theme=tokyonight" alt="GitHub Streak" width="48%" />
+
+
+</div>
