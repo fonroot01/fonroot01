@@ -14,7 +14,7 @@
 
 🔗 Connect with me:
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-%C3%A1ngel-mosquera-a-4a919b341/)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-mosquera-4a919b341/)
 [![GMAIL](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfomsoque22@gmail.com)
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fonroot01)
 
