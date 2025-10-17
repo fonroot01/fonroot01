@@ -10,7 +10,7 @@
 
 ## ✨ Welcome
 
-👋🏾 Hey there! I'm **Alfonso Mosquera**, but feel free to call me **Fonsi**!
+👋🏾 Hey there! I'm **Alfonso Angel Mosquera**, but feel free to call me **Angel**!
 
 🔗 Connect with me:
 
