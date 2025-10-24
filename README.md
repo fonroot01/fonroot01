@@ -10,7 +10,7 @@
 
 ## ✨ Welcome
 
-👋🏾 Hey there! I'm **Alfonso Angel Mosquera**, but feel free to call me **Angel**!
+👋🏾 Hey there! I'm **Alfonso Mosquera**, but feel free to call me **Angel**!
 
 🔗 Connect with me:
 
@@ -72,7 +72,7 @@
 
 ### fonroot01 (Alfonso Mosquera)
 
-**Systems Engineer** | IT Support | Cybersecurity
+**Systems Engineer** | IT Support | Cybersecurity | Automation
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fonroot01&label=Profile%20views&color=25C8A7&style=flat)
 
