@@ -8,8 +8,6 @@
 
 ## ✨ Welcome
 
-👋🏾 Hey there! I'm **Alfonso Mosquera**, but feel free to call me **Angel**!
-
 🔗 Connect with me:
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-mosquera-4a919b341/)
@@ -68,7 +66,7 @@
 
 <div align="center">
 
-### Systems Engineer | IT Support | Cybersecurity | Automation
+### I transform technical problems into practical and safe solutions :fire:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fonroot01&label=Profile%20views&color=25C8A7&style=flat)
 
