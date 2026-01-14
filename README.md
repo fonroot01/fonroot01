@@ -68,9 +68,7 @@
 
 <div align="center">
 
-### fonroot01 (Alfonso Mosquera)
-
-**Systems Engineer** | IT Support | Cybersecurity | Automation
+### Systems Engineer | IT Support | Cybersecurity | Automation
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fonroot01&label=Profile%20views&color=25C8A7&style=flat)
 
