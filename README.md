@@ -1,5 +1,3 @@
-# From Idea to Deploy 🚀
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alfonsomosquera.vercel.app-25C8A7?style=for-the-badge&logo=vercel)](https://alfonsomosquera.vercel.app)
@@ -24,15 +22,15 @@
 
 - IP Management System for network administration
 
-[![GestorIP](https://github-readme-stats.vercel.app/api/pin/?username=fonroot01&repo=GestorIP&theme=dark&show_owner=true)](https://github.com/fonroot01/GestorIP)
+[![GestorIP](https://naman-github-readme-stats.vercel.app/api/pin/?username=fonroot01&repo=GestorIP&theme=dark&show_owner=true)](https://github.com/fonroot01/GestorIP)
 
 - Android Security Analysis Framework
 
-[![Droid-Specter](https://github-readme-stats.vercel.app/api/pin/?username=fonroot01&repo=Droid-Specter&theme=dark&show_owner=true)](https://github.com/fonroot01/Droid-Specter)
+[![Droid-Specter](https://naman-github-readme-stats.vercel.app/api/pin/?username=fonroot01&repo=Droid-Specter&theme=dark&show_owner=true)](https://github.com/fonroot01/Droid-Specter)
 
 - IT Equipment Inventory Management System
 
-[![Inventario-de-equipos-TI](https://github-readme-stats.vercel.app/api/pin/?username=fonroot01&repo=Inventario-de-equipos-TI&theme=dark&show_owner=true)](https://github.com/fonroot01/Inventario-de-equipos-TI)
+[![Inventario-de-equipos-TI](https://naman-github-readme-stats.vercel.app/api/pin/?username=fonroot01&repo=Inventario-de-equipos-TI&theme=dark&show_owner=true)](https://github.com/fonroot01/Inventario-de-equipos-TI)
 
 ---
 
@@ -76,8 +74,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fonroot01&label=Profile%20views&color=25C8A7&style=flat)
 
-<img src="https://github-readme-stats.vercel.app/api?username=fonroot01&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fonroot01&theme=tokyonight" alt="GitHub Streak" width="48%" />
+<img src="https://naman-github-readme-stats.vercel.app/api?username=fonroot01&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub Stats" width="48%" />
 
 ---
 
