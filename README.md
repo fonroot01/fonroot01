@@ -43,8 +43,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fonroot01&label=Profile%20views&color=25C8A7&style=flat)
 
-<img src="https://naman-github-readme-stats.vercel.app/api?username=fonroot01&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub Stats" width="48%" />
-
 ---
 
 </div>
