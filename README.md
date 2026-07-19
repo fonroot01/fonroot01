@@ -16,22 +16,6 @@
 
 ---
 
-## :seedling: Contributions
-
-- IP Management System for network administration
-
-[![GestorIP](https://naman-github-readme-stats.vercel.app/api/pin/?username=fonroot01&repo=GestorIP&theme=dark&show_owner=true)](https://github.com/fonroot01/GestorIP)
-
-- Android Security Analysis Framework
-
-[![Droid-Specter](https://naman-github-readme-stats.vercel.app/api/pin/?username=fonroot01&repo=Droid-Specter&theme=dark&show_owner=true)](https://github.com/fonroot01/Droid-Specter)
-
-- IT Equipment Inventory Management System
-
-[![Inventario-de-equipos-TI](https://naman-github-readme-stats.vercel.app/api/pin/?username=fonroot01&repo=Inventario-de-equipos-TI&theme=dark&show_owner=true)](https://github.com/fonroot01/Inventario-de-equipos-TI)
-
----
-
 ## 🔧 Skills
 
 ### **Languages:**
