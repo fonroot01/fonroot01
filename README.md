@@ -191,24 +191,10 @@
       <td>Corporación Universitaria Americana — Postgraduate Diploma</td>
       <td>2023</td>
     </tr>
-    <tr>
-      <td><strong>Seguridad Defensiva & Ofensiva</strong></td>
-      <td>OWASP Framework · Bash for Pentesting · Practical Cybersecurity</td>
-      <td>—</td>
-    </tr>
   </tbody>
 </table>
 
 <br/>
-
-<!-- SNAKE -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fonroot01/fonroot01/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fonroot01/fonroot01/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/fonroot01/fonroot01/output/github-snake-dark.svg" />
-  </picture>
-</div>
 
 <br/>
 
