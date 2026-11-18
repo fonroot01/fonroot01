@@ -1,6 +1,57 @@
-<div align="center">
+<svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Cuadrícula técnica de fondo -->
+    <pattern id="tech-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#181818" stroke-width="1" />
+    </pattern>
+  </defs>
 
-<!-- BANNER -->
-<img src="./assets/banner.svg" alt="Alfonso Mosquera — Systems Engineer & IT Infrastructure" width="100%" />
+  <!-- Fondo base oscuro -->
+  <rect width="900" height="240" rx="6" fill="#0D0D0D" />
+  <rect width="900" height="240" rx="6" fill="url(#tech-grid)" />
+  <rect x="1" y="1" width="898" height="238" rx="5" stroke="#222222" stroke-width="1.5" />
 
-<br/>
+  <!-- Barra superior estilo terminal -->
+  <path d="M1 6C1 3.23858 3.23858 1 6 1H894C896.761 1 899 3.23858 899 6V34H1V6Z" fill="#141414" />
+  <line x1="1" y1="34" x2="899" y2="34" stroke="#222222" stroke-width="1" />
+
+  <!-- Controles de ventana -->
+  <circle cx="22" cy="17.5" r="5" fill="#E8734A" />
+  <circle cx="38" cy="17.5" r="5" fill="#2A2A2A" />
+  <circle cx="54" cy="17.5" r="5" fill="#2A2A2A" />
+
+  <!-- Ruta de terminal -->
+  <text x="450" y="21" fill="#666666" font-family="&#39;Courier New&#39;, Courier, monospace" font-size="12" text-anchor="middle" letter-spacing="1">
+    root@fonroot01:~# ./profile_init.sh
+  </text>
+
+  <!-- Acento lateral izquierdo -->
+  <rect x="35" y="64" width="4" height="132" fill="#E8734A" />
+
+  <!-- Prompt superior -->
+  <text x="56" y="78" fill="#E8734A" font-family="&#39;Courier New&#39;, Courier, monospace" font-size="13" font-weight="bold">
+    $ whoami
+  </text>
+
+  <!-- Nombre Principal -->
+  <text x="56" y="118" fill="#F5F5F5" font-family="&#39;Courier New&#39;, Courier, monospace" font-size="36" font-weight="bold" letter-spacing="2">
+    ALFONSO MOSQUERA
+  </text>
+
+  <!-- Rol / Especialidad -->
+  <text x="56" y="150" fill="#A0A0A0" font-family="&#39;Courier New&#39;, Courier, monospace" font-size="16" letter-spacing="0.5">
+    Systems Engineer  |  IT Infrastructure  |  Cybersecurity
+  </text>
+
+  <!-- Frase / Estado -->
+  <text x="56" y="188" fill="#E8734A" font-family="&#39;Courier New&#39;, Courier, monospace" font-size="14">
+    > Building resilient systems & securing corporate environments_
+  </text>
+
+  <!-- Decoración geométrica derecha (Escudo / Nodo minimalista) -->
+  <g transform="translate(765, 85)" opacity="0.85">
+    <polygon points="45,0 90,22 90,65 45,95 0,65 0,22" fill="none" stroke="#2A2A2A" stroke-width="2" />
+    <polygon points="45,12 78,28 78,59 45,82 12,59 12,28" fill="none" stroke="#E8734A" stroke-width="1.5" stroke-dasharray="4 3" />
+    <circle cx="45" cy="46" r="6" fill="#E8734A" />
+  </g>
+</svg>
