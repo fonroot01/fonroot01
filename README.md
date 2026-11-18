@@ -69,7 +69,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ Infrastructure & Security</h4>
+      <h4><img src="https://img.shields.io/badge/-%20-0D0D0D?style=flat-square&logo=letsencrypt&logoColor=E8734A" width="18" align="absmiddle" /> Infrastructure & Security</h4>
       <p>
         <img src="https://img.shields.io/badge/Cloud_Administration-E8734A?style=flat-square" />&nbsp;
         <img src="https://img.shields.io/badge/Identity_&_Access_(IAM)-E8734A?style=flat-square" />&nbsp;
@@ -80,7 +80,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ Automation & Systems</h4>
+      <h4><img src="https://img.shields.io/badge/-%20-0D0D0D?style=flat-square&logo=probot&logoColor=E8734A" width="18" align="absmiddle" /> Automation & Systems</h4>
       <p>
         <img src="https://img.shields.io/badge/Scripting_Automation-2A2A2A?style=flat-square&labelColor=2A2A2A" />&nbsp;
         <img src="https://img.shields.io/badge/Network_Administration-2A2A2A?style=flat-square&labelColor=2A2A2A" />&nbsp;
