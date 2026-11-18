@@ -1,48 +1,247 @@
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alfonsomosquera.vercel.app-25C8A7?style=for-the-badge&logo=vercel)](https://alfonsomosquera.vercel.app)
+<!-- BANNER ALTERNATIVO CON TUS DATOS -->
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam/anim-cursor/main/Cursor/Animation/cursor-1.gif" width="30" align="absmiddle"> Alfonso Mosquera</h2>
+<p><code>Systems Engineer & IT Technology Manager</code></p>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://alfonsomosquera.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-F5F5F5?style=flat-square&logo=About.me&logoColor=0A0A0A" alt="Portfolio"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alfonso_angel_mosquera">
+  <img src="https://img.shields.io/badge/LINKEDIN-F5F5F5?style=flat-square&logo=linkedin&logoColor=0A0A0A" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/fonroot01">
+  <img src="https://img.shields.io/badge/GITHUB-F5F5F5?style=flat-square&logo=github&logoColor=0A0A0A" alt="GitHub"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:alfomosque22@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-F5F5F5?style=flat-square&logo=gmail&logoColor=0A0A0A" alt="Email"/>
+</a>&nbsp;&nbsp;
+<a href="https://alfonsomosquera.vercel.app">
+  <img src="https://img.shields.io/badge/IT_&_SECURITY-E8734A?style=flat-square&logoColor=white" alt="IT & Security"/>
+</a>
 
 </div>
 
----
+<br/>
 
-## ✨ Welcome
+<br/>
 
-🔗 Connect with me:
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=E8734A&section=header" width="100%"/></div>
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-mosquera-4a919b341/)
-[![GMAIL](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfomsoque22@gmail.com)
-[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fonroot01)
+## Experience
 
----
+<table>
+  <thead>
+    <tr>
+      <th width="180">Role</th>
+      <th width="180">Company</th>
+      <th>What I Do</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Gestor de Tecnología</strong></td>
+      <td><code>Platinum Contact Center</code></td>
+      <td>Managing IT infrastructure, Microsoft 365 & Azure cloud services, Entra ID access control, Bitdefender endpoint security, and IT asset lifecycle.</td>
+    </tr>
+    <tr>
+      <td><strong>Auxiliar de Apoyo IT</strong></td>
+      <td><code>SOINNTEC (UBPD)</code></td>
+      <td>Executed tech deployment, domain and connectivity validation, IP telephony setup, and end-user infrastructure support in Quibdó.</td>
+    </tr>
+    <tr>
+      <td><strong>Auxiliar de Plataformas</strong></td>
+      <td><code>Zeuss SAS</code></td>
+      <td>Administered 3CX IP telephony, Active Directory permissions, M365 licensing, data backups, and functional ERP DMS tracking.</td>
+    </tr>
+    <tr>
+      <td><strong>Aprendiz Soporte TI</strong></td>
+      <td><code>Zeuss SAS</code></td>
+      <td>Provided L1/L2 technical support, incident resolution, hardware inventory control, and technical documentation.</td>
+    </tr>
+  </tbody>
+</table>
 
-## 🔧 Skills
+<br/>
 
-### **Languages:**
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=E8734A&section=header" width="100%"/></div>
 
-![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![BASH](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## What I Do
 
-### **Tools & Platforms:**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Infrastructure & Security</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Cloud_Administration-E8734A?style=flat-square" />&nbsp;
+        <img src="https://img.shields.io/badge/Identity_&_Access_(IAM)-E8734A?style=flat-square" />&nbsp;
+        <img src="https://img.shields.io/badge/Endpoint_Security-E8734A?style=flat-square" />&nbsp;
+        <img src="https://img.shields.io/badge/Pentesting_&_OWASP-E8734A?style=flat-square" />&nbsp;
+        <img src="https://img.shields.io/badge/IP_Telephony-E8734A?style=flat-square" />&nbsp;
+        <img src="https://img.shields.io/badge/Operational_Continuity-E8734A?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Automation & Systems</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Scripting_Automation-2A2A2A?style=flat-square&labelColor=2A2A2A" />&nbsp;
+        <img src="https://img.shields.io/badge/Network_Administration-2A2A2A?style=flat-square&labelColor=2A2A2A" />&nbsp;
+        <img src="https://img.shields.io/badge/Server_Management-2A2A2A?style=flat-square&labelColor=2A2A2A" />&nbsp;
+        <img src="https://img.shields.io/badge/IT_Asset_Lifecycle-2A2A2A?style=flat-square&labelColor=2A2A2A" />&nbsp;
+        <img src="https://img.shields.io/badge/Backup_&_Recovery-2A2A2A?style=flat-square&labelColor=2A2A2A" />&nbsp;
+        <img src="https://img.shields.io/badge/Incident_Management-2A2A2A?style=flat-square&labelColor=2A2A2A" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VIRTUALBOX](https://img.shields.io/badge/VIRTUALBOX-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![WINDOWS_SERVER](https://img.shields.io/badge/WINDOWS_SERVER-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VS_CODE](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ACTIVE_DIRECTORY](https://img.shields.io/badge/ACTIVE_DIRECTORY-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+<br/>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=E8734A&section=header" width="100%"/></div>
 
-## 📊 Stats
+## Tech Stack
 
 <div align="center">
 
-### I transform technical problems into practical and safe solutions :fire:
-
-![Profile Views](https://komarev.com/ghpvc/?username=fonroot01&label=Profile%20views&color=25C8A7&style=flat)
-
----
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Cloud & Identity</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Microsoft_365-E8734A?style=flat-square&logo=microsoft&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-E8734A?style=flat-square&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Entra_ID-E8734A?style=flat-square&logo=microsoft&logoColor=white" />
+        <img src="https://img.shields.io/badge/Active_Directory-E8734A?style=flat-square&logo=windows&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Scripting & Data</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-2A2A2A?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bash-2A2A2A?style=flat-square&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/PowerShell-2A2A2A?style=flat-square&logo=powershell&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-2A2A2A?style=flat-square&logo=mysql&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>OS & Virtualization</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Linux-2A2A2A?style=flat-square&logo=linux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Windows_Server-2A2A2A?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/VirtualBox-2A2A2A?style=flat-square&logo=virtualbox&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Security & VoIP</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Bitdefender-2A2A2A?style=flat-square&logo=bitdefender&logoColor=white" />
+        <img src="https://img.shields.io/badge/OWASP-2A2A2A?style=flat-square&logo=owasp&logoColor=white" />
+        <img src="https://img.shields.io/badge/3CX_VoIP-2A2A2A?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tools & Dev</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-2A2A2A?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-2A2A2A?style=flat-square&logo=visualstudiocode&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-2A2A2A?style=flat-square&logo=vercel&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=E8734A&section=header" width="100%"/></div>
+
+## Education & Certifications
+
+<table>
+  <thead>
+    <tr>
+      <th width="280">Program / Credential</th>
+      <th>Institution / Focus</th>
+      <th width="90">Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Ingeniería de Sistemas</strong></td>
+      <td>Corporación Universitaria Americana — Bachelor's Degree</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td><strong>Ciberseguridad y Desarrollo Org.</strong></td>
+      <td>Corporación Universitaria Americana — Postgraduate Diploma</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td><strong>Seguridad Informática</strong></td>
+      <td>Corporación Universitaria Americana — Postgraduate Diploma</td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td><strong>Seguridad Defensiva & Ofensiva</strong></td>
+      <td>OWASP Framework · Bash for Pentesting · Practical Cybersecurity</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<!-- SNAKE -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fonroot01/fonroot01/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fonroot01/fonroot01/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/fonroot01/fonroot01/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=E8734A&section=header" width="100%"/></div>
+
+## Stats
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fonroot01&theme=github_dark" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=fonroot01&theme=github-dark-blue&hide_border=true&background=0D0D0D&ring=E8734A&fire=E8734A&currStreakLabel=E8734A&sideLabels=888888&sideNums=F5F5F5&currStreakNum=F5F5F5&dates=555555" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fonroot01&theme=github_dark" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fonroot01&theme=github_dark&utcOffset=-5" alt="Commit Activity" />
+</div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=E8734A&section=header" width="100%"/></div>
+
+<div align="center">
+
+  <a href="mailto:alfomosque22@gmail.com">
+    <img src="https://img.shields.io/badge/OPEN_FOR-IT_&_SECURITY_PROJECTS-E8734A?style=flat-square&labelColor=0D0D0D" alt="Open for work" />
+  </a>
+
+<br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=fonroot01&style=flat-square&color=E8734A&labelColor=0D0D0D&label=VIEWS" alt="Profile views" />
+
+</div>
+
+<!---
+fonroot01/fonroot01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
