@@ -1,10 +1,5 @@
+<img width="990" height="261" alt="alfonsobanner" src="https://github.com/user-attachments/assets/b3884a1d-0794-48d8-8df5-c980caede453" />
 <div align="center">
-
-<!-- BANNER ALTERNATIVO CON TUS DATOS -->
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam/anim-cursor/main/Cursor/Animation/cursor-1.gif" width="30" align="absmiddle"> Alfonso Mosquera</h2>
-<p><code>Systems Engineer & IT Technology Manager</code></p>
-
-<br/>
 
 <!-- SOCIAL BADGES -->
 <a href="https://alfonsomosquera.vercel.app">
