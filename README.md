@@ -26,45 +26,7 @@
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=E8734A&section=header" width="100%"/></div>
 
-## Experience
-
-<table>
-  <thead>
-    <tr>
-      <th width="180">Role</th>
-      <th width="180">Company</th>
-      <th>What I Do</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Gestor de Tecnología</strong></td>
-      <td><code>Platinum Contact Center</code></td>
-      <td>Managing IT infrastructure, Microsoft 365 & Azure cloud services, Entra ID access control, Bitdefender endpoint security, and IT asset lifecycle.</td>
-    </tr>
-    <tr>
-      <td><strong>Auxiliar de Apoyo IT</strong></td>
-      <td><code>SOINNTEC (UBPD)</code></td>
-      <td>Executed tech deployment, domain and connectivity validation, IP telephony setup, and end-user infrastructure support in Quibdó.</td>
-    </tr>
-    <tr>
-      <td><strong>Auxiliar de Plataformas</strong></td>
-      <td><code>Zeuss SAS</code></td>
-      <td>Administered 3CX IP telephony, Active Directory permissions, M365 licensing, data backups, and functional ERP DMS tracking.</td>
-    </tr>
-    <tr>
-      <td><strong>Aprendiz Soporte TI</strong></td>
-      <td><code>Zeuss SAS</code></td>
-      <td>Provided L1/L2 technical support, incident resolution, hardware inventory control, and technical documentation.</td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=E8734A&section=header" width="100%"/></div>
-
-## What I Do
+## What I Do?
 
 <table>
   <tr>
@@ -132,6 +94,7 @@
       <td>
         <img src="https://img.shields.io/badge/Linux-2A2A2A?style=flat-square&logo=linux&logoColor=white" />
         <img src="https://img.shields.io/badge/Windows_Server-2A2A2A?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/VMware-2A2A2A?style=flat-square&logo=VMware&logoColor=white" />
         <img src="https://img.shields.io/badge/VirtualBox-2A2A2A?style=flat-square&logo=virtualbox&logoColor=white" />
       </td>
     </tr>
